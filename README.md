@@ -31,10 +31,14 @@ API(QQ音乐api)
 页面效果
 
 
-![image](https://github.com/mermaid-happy/qq_music/tree/master/src/image/index.png)
-![image](https://github.com/mermaid-happy/qq_music/tree/master/src/image/rank.png)
-![image](https://github.com/mermaid-happy/qq_music/tree/master/src/image/search.png)
-![image](https://github.com/mermaid-happy/qq_music/tree/master/src/image/musicDetail.png)
-![image](https://github.com/mermaid-happy/qq_music/tree/master/src/image/rankDetail.png)
+![image](https://github.com/mermaid-happy/qq_music/blob/master/src/image/index.png)
+
+![image](https://github.com/mermaid-happy/qq_music/blob/master/src/image/rank.png)
+
+![image](https://github.com/mermaid-happy/qq_music/blob/master/src/image/search.png)
+
+![image](https://github.com/mermaid-happy/qq_music/blob/master/src/image/musicDetail.png)
+
+![image](https://github.com/mermaid-happy/qq_music/blob/master/src/image/rankDetail.png)
 
 
