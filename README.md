@@ -27,3 +27,14 @@ stylus（CSS 预处理语言）
 axios（是一个基于Promise 用于浏览器和 nodejs 的 HTTP 客户端，做数据交互）
 
 API(QQ音乐api)
+
+页面效果
+
+
+![image](https://github.com/mermaid-happy/qq_music/tree/master/src/image/index.png)
+![image](https://github.com/mermaid-happy/qq_music/tree/master/src/image/rank.png)
+![image](https://github.com/mermaid-happy/qq_music/tree/master/src/image/search.png)
+![image](https://github.com/mermaid-happy/qq_music/tree/master/src/image/musicDetail.png)
+![image](https://github.com/mermaid-happy/qq_music/tree/master/src/image/rankDetail.png)
+
+
